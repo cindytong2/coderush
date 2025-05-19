@@ -1,3 +1,29 @@
+# ⚡ CodeRush
+
+**Instant, real-time Leetcode-style coding interviews with strangers.**  
+No scheduling. No stress. Just code.
+
+---
+
+## 🧠 What is CodeRush?
+
+**CodeRush** is a platform where developers can instantly match with someone at their level and practice short, timed coding interviews — think about it like *Clash Royale for Leetcode*.
+
+> "Click match. Code for 15 minutes. Get better. Repeat."
+
+I’m building CodeRush to make interview prep fast, social, and habit-forming — not awkward, formal, or lonely. It’s a tool I wish existed during my own prep, and one that solves a real problem for thousands of CS students and early-career devs.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/)
+- **Backend:** [Supabase](https://supabase.com/) (Auth, Postgres DB, Realtime)
+- **Editor:** [Monaco Editor](https://microsoft.github.io/monaco-editor/)
+- **AI Feedback (coming soon):** [OpenAI GPT-4 Turbo](https://platform.openai.com/docs)
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
